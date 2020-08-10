@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Requests & Suggestions
+    url: https://piratemc.com/forums/server-support/requests-suggestions/
+    about: You can also put suggetions directly onto our forums.
+  - name: Bugs & Glitches
+    url: https://piratemc.com/forums/server-support/bugs-glitches/
+    about: You can also put bugs directly onto our forums.
