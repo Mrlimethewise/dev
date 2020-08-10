@@ -16,8 +16,8 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen:
 
-**Screenshots**
+**Screenshots (Delete if there are no screenshots)**
 If applicable, add screenshots to help explain your problem:
 
-**Additional context**
+**Additional context (Delete if this isn't needed)**
 Add any other context about the problem here:
