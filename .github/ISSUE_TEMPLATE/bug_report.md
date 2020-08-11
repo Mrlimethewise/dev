@@ -11,8 +11,8 @@ assignees: ''
 
 **To Reproduce** *(Steps to reproduce the behavior)*:
 
-**Expected behavior** *(A clear and concise description of what you expected to happen)*:
-
-**Screenshots (Delete if not needed)** *(If applicable, add screenshots to help explain your problem)*:
+**Screenshots/Videos (Delete if not needed)** *(If applicable, add screenshots/videos to help explain your problem)*:
 
 **Additional context (Delete if this isn't needed)** *(Add any other context about the problem here)*:
+
+**If applicable, time/date of issue**:
