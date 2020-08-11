@@ -11,7 +11,7 @@ assignees: ''
 
 **To Reproduce** *(Steps to reproduce the behavior)*:
 
-**Time and Date** *(If applicable, add the time and date of the issue)*:
+**Time and Date** *(If applicable, add the time (in GMT+1) and date (DD.MM.YYYY) of the issue)*:
 
 **Screenshots/Videos (Delete if not needed)** *(If applicable, add screenshots/videos to help explain your problem)*:
 
