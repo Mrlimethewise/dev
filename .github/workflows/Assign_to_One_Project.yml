@@ -1,4 +1,4 @@
-- name: Assign to One Project
+  name: Assign to One Project
   uses: srggrs/assign-one-project-github-action@1.2.0
   with:
     # The url of the project to be assigned to.
