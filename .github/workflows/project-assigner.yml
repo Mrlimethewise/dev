@@ -1,0 +1,21 @@
+name: Auto Assign to Project
+
+on:
+  issues:
+    types: [opened, labeled]
+  pull_request:
+    types: [opened, labeled]
+env:
+  MY_GITHUB_TOKEN: ${{ secrets.be2e7d5740e9c7307520eacd2ee2d1b884a38331 }}
+
+jobs:
+  assign_one_project:
+    runs-on: ubuntu-latest
+    name: Assign to One Project
+    steps:
+    - name: Assign NEW issues and NEW pull requests to project 2
+      uses: srggrs/assign-one-project-github-action@1.2.0
+      if: github.event.action == 'opened'
+      with:
+        project: 'https://github.com/PirateCraft/dev/projects/1'
+        column_name: 'Needs triage'
