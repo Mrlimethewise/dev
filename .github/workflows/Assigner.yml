@@ -1,5 +1,10 @@
- name: Assign to One Project
-  uses: srggrs/assign-one-project-github-action@ee9e04cf29076579440cf7a149b0d5647467dc5b
-  with:
-    project: https://github.com/PirateCraft/dev/projects/1
-    column_name: Needs triage
+[
+  {
+    "uses": "srggrs/assign-one-project-github-action@1.2.0", 
+    "with": {
+      "project": "https://github.com/PirateCraft/dev/projects/1", 
+      "column_name": "Needs triage"
+    }, 
+    "name": "Assign to One Project"
+  }
+]
