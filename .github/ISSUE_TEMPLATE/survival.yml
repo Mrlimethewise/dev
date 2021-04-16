@@ -1,6 +1,6 @@
 name: Survival - Bug report 2
 about: Create a report to help us improve
-labels: 'Survival','bug'
+labels: 'Survival'
 body:
 - type: textarea
   attributes:
